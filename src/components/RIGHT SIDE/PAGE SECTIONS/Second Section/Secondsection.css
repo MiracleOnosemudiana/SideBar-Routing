@@ -1,0 +1,12 @@
+.secondLayer {
+    margin-right: auto;
+}
+
+.chart {
+    display: flex;
+    justify-content: center;
+}
+
+.chart-img {
+    width: 100%;
+}
